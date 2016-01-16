@@ -45,11 +45,8 @@ div.category {
     vertical-align: top;
 }
 
-div.products {
-    padding-top: 100px; 
-    font-size:130%;
+#products {
     padding-bottom: 50px;
-
 }
 
 h1 {
